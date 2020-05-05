@@ -13,4 +13,4 @@ There are a few new components being added to the program. Stand-by for changes 
 * Deep Q Network: Currently the AI uses UCB (Upper Confidence Bound) as part of the Markov process. Using a Deep Q-learning would be quite useful, especially for higher dimensions. 
 
 ## Future applications
-This was intended as a ramp-up project to familiarize with the concepts and applications of RL. The ultimate vision for this project is to use this on a _Control Problem_, especially for a chaotic system. Stay tuned for more updates!
+This was intended as a ramp-up project to familiarize with the concepts and applications of RL. The ultimate vision for this project is to use this on a _Control Problem_, especially for _chaotic systems_. Stay tuned for more updates!
