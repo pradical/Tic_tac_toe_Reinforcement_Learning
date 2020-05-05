@@ -14,3 +14,8 @@ There are a few new components being added to the program. Stand-by for changes 
 
 ## Future applications
 This was intended as a ramp-up project to familiarize with the concepts and applications of RL. The ultimate vision for this project is to use this on a _Control Problem_, especially for _chaotic systems_. Stay tuned for more updates!
+
+
+A graph of the rewards awarded to the two AIs competing with each other over time. The rewards can be seen converging to the theoretical 0.5 towards the end. 
+![GitHub Logo](https://github.com/pradical/Tic_tac_toe_Reinforcement_Learning/blob/master/Trial_2/Rewards_after_retraining.png)
+Format: ![Alt Text](url)
